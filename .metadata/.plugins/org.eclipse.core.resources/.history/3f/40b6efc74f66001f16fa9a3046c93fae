@@ -1,0 +1,70 @@
+package Steps;
+
+import org.checkerframework.checker.units.qual.s;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class StepsTelaCompra {
+
+	0m6,365s
+
+
+	You can implement missing steps with the snippets below:
+
+	@Given("acesse a url")
+	public void acesse_a_url() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Given("clique em cinema e escolha o Kinoplex Amazonas")
+	public void clique_em_cinema_e_escolha_o_kinoplex_amazonas() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("clicar em programação e fechar a tela de popup")
+	public void clicar_em_programação_e_fechar_a_tela_de_popup() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("escolher data, sessao e clicar em comprar")
+	public void escolher_data_sessao_e_clicar_em_comprar() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("devera aparecer a tela para escolher o assento")
+	public void devera_aparecer_a_tela_para_escolher_o_assento() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("escolher ingressos")
+	public void escolher_ingressos() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("na tela escolher o tipo de ingresso")
+	public void na_tela_escolher_o_tipo_de_ingresso() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("segue tela pipoca e pular")
+	public void segue_tela_pipoca_e_pular() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("aparece a tela para preencher o cpf")
+	public void aparece_a_tela_para_preencher_o_cpf() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+	
+}

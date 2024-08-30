@@ -1,0 +1,14 @@
+@tag
+Feature: Title of your feature
+  I want to use this template for my feature file
+
+  @tag1
+  Scenario: tela cadastro
+    Given que acesse a url 
+    And clique em cadastrar-se
+    When complete o formulario
+    Then clique em confirmar
+    And devera aparecer
+  
+   
+    
